@@ -365,7 +365,6 @@ streamlit run app.py
   <li>Add Docker support</li>
   <li>Deploy publicly on cloud infrastructure</li>
   <li>Add CI/CD pipeline</li>
-  <li>Improve evaluation using ROC-AUC and F1-score</li>
 </ul>
 
 <hr>
